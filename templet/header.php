@@ -18,12 +18,12 @@
             </nav>
             <title>Coppel</title>
 	<meta charset="utf-8">
-	<link rel="stylesheet" type="text/css" href="estilo.css">
+	<link rel="stylesheet" type="text/css" href="<?php $this->url_templet();?>estilo.css">
 	<nav>
 	<ul  class="menu">
-   <li ><a><img src="te.png" alt="telefono"><b class="com"> Compra ahora</b><b> 01-800-220-7735</b></a></li>
+   <li ><a><img src="<?php $this->url_templet();?>te.png" alt="telefono"><b class="com"> Compra ahora</b><b> 01-800-220-7735</b></a></li>
 	</ul>
-	<img src="coppel_logo.png" alt="logo">
+	<img src="<?php $this->url_templet();?>coppel_logo.png" alt="logo">
 	</nav>
 	
         </header>

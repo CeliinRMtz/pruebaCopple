@@ -17,7 +17,7 @@
     <article class="des">
 		<table>
 	<tr>
-		<td><a href="prac.html"><img src="arbol1.jpg" alt="arbol1"></a></td>
+		<td><a href="prac.html"><img src="<?php $this->url_templet();?>arbol1.jpg" alt="arbol1"></a></td>
 		<td><h1>Esferas Navideñas Starhaus Holidays</h1><br>
 			<p><strong>$759</strong> de contado</p>
 			<br><p>Desde $11 quincenal</p>
