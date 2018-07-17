@@ -1,0 +1,192 @@
+ul.menu {
+  clear: both;
+  float: left;
+  width: 100%;
+  text-align: right;
+}
+ul.menu {
+  clear: both;
+  float: left;
+  width: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+ul.menu li {
+   float: left;
+   width: 100%;
+
+}
+
+ul.menu li a  {
+  padding: .3em;
+  display: block;
+  text-decoration: none;
+  color: rgb(252,248,27);
+  background: rgb(61,70,62);
+  border-top: 1px solid #7C7C7C;
+  border-right: 1px solid #7C7C7C;
+  border-bottom: 1px solid #9C9C9C;
+  font-size: medium;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.com{
+ 
+  text-decoration: none;
+  color: rgb(255,248,255);
+  background: rgb(61,70,62)
+  border-top: 1px solid #7C7C7C;
+  border-right: 1px solid #7C7C7C;
+  border-bottom: 1px solid #9C9C9C;
+  font-size: medium;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.im{
+   align:left;
+}
+ul.men {
+  clear: both;
+  float: left;
+  width: 100%;
+  text-align: right;
+}
+ul.men {
+  clear: both;
+  float: left;
+  width: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+ul.men li {
+   float: left;
+   width: 100%;
+
+}
+
+ul.men li a {
+  padding: .3em;
+  display: block;
+  text-decoration: none;
+  color: rgb(255,248,255);
+  background: rgb(61,70,62);
+  border-top: 1px solid #7C7C7C;
+  border-right: 1px solid #7C7C7C;
+  border-bottom: 1px solid #9C9C9C;
+  font-size: medium;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+section.me  p{
+  clear: both;
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+section.me  p{
+  clear: both;
+  float: left;
+  width: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+section.me  p {
+   float: left;
+   width: 100%;
+
+}
+
+section.me  p{
+  padding: .3em;
+  display: block;
+  text-decoration: none;
+  color: rgb(255,248,255);
+  background: rgb(61,70,62);
+  border-top: 1px solid #7C7C7C;
+  border-right: 1px solid #7C7C7C;
+  border-bottom: 1px solid #9C9C9C;
+  font-size: small;
+  font-family:Arial, Helvetica, sans-serif;
+
+}
+section.imagen  p{
+  clear: both;
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+section.imagen  p{
+  clear: both;
+  float: left;
+  width: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+section.imagen  p {
+   float: left;
+   width: 100%;
+
+}
+
+section.imagen  p{
+  padding: .3em;
+  display: block;
+  text-decoration: none;
+  color: rgb(255,248,255);
+  background: rgb(94,98,101);
+  border-top: 1px solid #7C7C7C;
+  border-right: 1px solid #7C7C7C;
+  border-bottom: 1px solid #9C9C9C;
+  font-size: medium;
+  font-family:Arial, Helvetica, sans-serif;
+
+}
+
+ul.cuerpo {
+  clear: both;
+  float: left;
+  width: 100%;
+ 
+}
+ul.cuerpo {
+  clear: both;
+  float: left;
+  width: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+ul.cuerpo li {
+   float: left;
+   width: 100%;
+
+}
+
+ul.cuerpo li a  {
+  padding: .3em;
+  display: block;
+  text-decoration: none;
+  color: rgb(0,0,0);
+  background: rgb(255,255,255);
+  border-top: 1px solid #7C7C7C;
+  border-right: 1px solid #7C7C7C;
+  border-bottom: 1px solid #9C9C9C;
+  font-size: small;
+  font-family:Segoe UI Semibold, sans-serif;
+}
+p.des {
+   text-align:center;
+font-size:medium;
+   font-family: Arial, Helvetica, sans-serif;;
+}
+
+body{
+  font-size: 20px;
+  line-height: 20px;
+  font-family: Segoe-Pro, Tahoma, Verdana, Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  margin:1px;
